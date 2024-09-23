@@ -1,0 +1,35 @@
+class Assets {
+  static String accountIc = "assets/images/account_icon.svg";
+  static String addressIc = "assets/images/account_icon.svg";
+  static String buildingIc = "assets/images/buildingIc.svg";
+  static String calendarIc = "assets/images/calendar_icon.svg";
+  static String callIc = "assets/images/call_icon.svg";
+  static String cbgIc = "assets/images/cbg_icon.png";
+  static String emailIc = "assets/images/email_icon.svg";
+  static String genderIc = "assets/images/gender_icon.svg";
+  static String indiaIc = "assets/images/india_icon.svg";
+  static String locationIc = "assets/images/location_icon.svg";
+  static String micIc = "assets/images/mic.png";
+  static String navArrowIc = "assets/images/nav_arrow.svg";
+  static String roundArrowIc = "assets/images/round_arrow.svg";
+  static String searchIc = "assets/images/search_ic.svg";
+  static String vector = "assets/images/Vector.svg";
+  static String profilePic = "assets/images/profile_pic.jpeg";
+  static String homeProfilePic = "assets/images/person.png";
+  static String personProfilePic = "assets/images/person.png";
+  static String listImage = "assets/images/listImage.png";
+  static String notificationIc = "assets/images/Vector.svg";
+  static String successfulTask = 'assets/images/Successful task.png';
+  static String backButton = 'assets/images/Button.png';
+  static String uploadImage = 'assets/images/Upload file.png';
+  static String pdfFile = 'assets/images/fa-solid_file-pdf.png';
+  static String bottomNavHome = 'assets/images/home.svg';
+  static String bottomNavChat = 'assets/images/chat.svg';
+  static String bottomnavStatus = 'assets/images/statuss.svg';
+  static String bottomNavAccount = 'assets/images/user.svg';
+  static String homeSearch = 'assets/images/Union.svg';
+  static String homeNotification = 'assets/images/home_notification.svg';
+  static String bookMarksIcon = 'assets/images/bookmarks_icon.svg';
+  static String calenderIcon = 'assets/images/calender.svg';
+  static String settingsIcon = 'assets/images/Settings_ic.svg';
+}
